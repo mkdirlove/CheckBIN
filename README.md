@@ -1,0 +1,2 @@
+# CheckBIN
+BIN Checker tool.
